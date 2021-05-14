@@ -1,8 +1,8 @@
 
 
-# WBE SERVER WRITTED IN C |  SERVIDOR WEB EN C 
+# WEB SERVER WRITTEN IN C |  SERVIDOR WEB EN C 
 
-
+ Main code file in src/server.c
 
 ## Funcionalidad Implementada
 
